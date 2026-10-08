@@ -1,0 +1,19 @@
+{
+  "name": "sample-notice",
+  "pageWidthMm": 210, "pageHeightMm": 297,
+  "marginTopMm": 37, "marginBottomMm": 35, "marginLeftMm": 28, "marginRightMm": 26,
+  "headerMm": 15, "footerMm": 26,
+  "rows": 22, "columns": 28,
+  "lineMode": "fixed", "fixedLinePt": 28.9, "alignToGrid": true,
+  "bodyPt": 16, "titlePt": 22, "pageNumberPt": 14,
+  "signatureMode": "sample",
+  "fonts": {
+    "body": ["仿宋_GB2312", "仿宋", "FangSong"],
+    "title": ["方正小标宋简体", "FZXiaoBiaoSong-B05S"],
+    "heading1": ["黑体", "SimHei"],
+    "heading2": ["楷体_GB2312", "楷体", "KaiTi"],
+    "addressee": ["楷体_GB2312", "楷体", "KaiTi"],
+    "page": ["宋体", "SimSun"],
+    "latin": ["Times New Roman"]
+  }
+}

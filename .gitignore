@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+**/bin/
+**/obj/
+.gongwen-cache/
+.test-output/
+.venv/
+dist/
+work/
+*.report.json
+*.docx
+*.pdf
+*.zip
+.DS_Store
+Thumbs.db
+.env
+.env.*
